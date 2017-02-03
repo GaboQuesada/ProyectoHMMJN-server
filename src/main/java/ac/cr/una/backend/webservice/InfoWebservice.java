@@ -31,6 +31,9 @@ public class InfoWebservice {
     
     private InfoDAO infoDAO;
     private InfoService infoService;
+
+    public InfoWebservice() {
+    }
     
     @GET
     @Path("/all")

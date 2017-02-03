@@ -14,6 +14,10 @@
      
         <mapping class="ac.cr.una.backend.model.Usuario"></mapping>
         <mapping class="ac.cr.una.backend.model.Info"></mapping>
+        <mapping class="ac.cr.una.backend.model.Pacientes"></mapping>
+        <mapping class="ac.cr.una.backend.model.Observaciones"></mapping>
+        <mapping class="ac.cr.una.backend.model.Enfermedades"></mapping>
+        <mapping class="ac.cr.una.backend.model.Consultorios"></mapping>
      
     
     </session-factory>
