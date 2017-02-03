@@ -13,6 +13,7 @@
         <property name="show_sql">true</property>
      
         <mapping class="ac.cr.una.backend.model.Usuario"></mapping>
+        <mapping class="ac.cr.una.backend.model.Info"></mapping>
      
     
     </session-factory>
