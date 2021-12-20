@@ -17,3 +17,8 @@ public interface CitasDAO {
     public List<Citas> getAllVitasById(int id);
     public Citas update(Citas citas);
 }
+
+public void holamundo(){
+
+
+}
