@@ -20,5 +20,6 @@ public interface CitasDAO {
 
 public void holamundo(){
 
+int hola = 0;
 
 }
